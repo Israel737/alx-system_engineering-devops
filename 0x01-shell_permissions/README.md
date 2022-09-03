@@ -1,1 +1,1 @@
-print all space
+changes owner of file
