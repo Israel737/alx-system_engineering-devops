@@ -1,1 +1,1 @@
-11. Directories
+directories
